@@ -1,5 +1,7 @@
-# Maren Dashboard 
+# Maren Video Catalog Management
 
 - Tecnologias 
 
-    - Vue.js 2
+    - React.js
+    - Redux Toolkit
+    
